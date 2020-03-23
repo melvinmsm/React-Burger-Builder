@@ -6,11 +6,11 @@
     "\\src\\components\\Burger",
     "\\src\\components\\Burger\\BuildControls",
     "\\src\\components\\Burger\\BuildControls\\BuildControl",
-    "\\src\\components\\Burger\\BurgerIngredient",
+    "\\src\\components\\UI",
+    "\\src\\components\\UI\\Modal",
     "\\src\\containers",
-    "\\src\\containers\\BurgerBuilder",
-    "\\src\\hoc"
+    "\\src\\containers\\BurgerBuilder"
   ],
-  "SelectedNode": "\\src\\components\\Burger\\BuildControls\\BuildControl\\BuildControl.js",
+  "SelectedNode": "\\src\\containers\\BurgerBuilder\\BurgerBuilder.js",
   "PreviewInSolutionExplorer": false
 }
