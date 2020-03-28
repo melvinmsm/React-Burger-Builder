@@ -6,11 +6,12 @@
     "\\src\\components\\Burger",
     "\\src\\components\\Burger\\BuildControls",
     "\\src\\components\\Burger\\BuildControls\\BuildControl",
+    "\\src\\components\\Layout",
     "\\src\\components\\UI",
     "\\src\\components\\UI\\Modal",
     "\\src\\containers",
     "\\src\\containers\\BurgerBuilder"
   ],
-  "SelectedNode": "\\src\\containers\\BurgerBuilder\\BurgerBuilder.js",
+  "SelectedNode": "\\src\\components\\Layout\\Layout.js",
   "PreviewInSolutionExplorer": false
 }
